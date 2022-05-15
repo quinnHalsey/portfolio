@@ -1,0 +1,49 @@
+body {
+  margin: 0;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.page-container {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  background-color: #121212;
+}
+
+.centered-container {
+  margin: auto;
+  text-align: center;
+}
+
+.white {
+  color: white;
+}
+
+.icon-links {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.icon-link {
+  color: white;
+}
+
+.icon-link:hover {
+  color: #5bb6f7;
+}
+
+.icon-links svg {
+  margin: 0px 5px;
+}
+
+.stack {
+  opacity: 0;
+  position: relative;
+  top: 20px;
+}
+
+.stack.visible {
+  opacity: 0.7;
+}
