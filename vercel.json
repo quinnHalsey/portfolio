@@ -1,0 +1,8 @@
+{
+    "redirects": [
+        {
+            "source": "/bdt-impact-report",
+            "destination": "https://deploy-preview-2085--eloquent-haibt-6af324.netlify.app/impact-2023/"
+        }
+    ]
+}
