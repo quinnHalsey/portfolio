@@ -23,7 +23,7 @@ function App() {
           </a>
         </div>
         <div className={expand ? "stack visible" : "stack"}>
-          JavaScript | React | Redux | Node.js | Express | PostgreSQL | HTML5 |
+          JavaScript | React | Gatsby | Redux | Node.js | Express | PostgreSQL | HTML5 |
           CSS3
         </div>
       </div>
