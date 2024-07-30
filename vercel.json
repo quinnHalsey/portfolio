@@ -1,12 +1,12 @@
 {
-    "redirects": [
-        {
-            "source": "/bdt-impact-report",
-            "destination": "https://deploy-preview-2085--eloquent-haibt-6af324.netlify.app/impact-2023/"
-        },
-        {
-            "source": "/wyatt",
-            "destination": "https://www.getfafsahelp.org/"
-        }
-    ]
+  "redirects": [
+    {
+      "source": "/bdt-impact-report",
+      "destination": "https://www.dropbox.com/scl/fi/dwax25ad22jctzjvzs8sd/Halsey-Quinn_Impact-Report.mp4?rlkey=px76wnntv4lrvmw8g740qqqc7&st=457w82po&dl=0"
+    },
+    {
+      "source": "/wyatt",
+      "destination": "https://www.dropbox.com/scl/fi/a0jspqvj1fwmw32olz6cm/Halsey-Quinn_Wyatt.mp4?rlkey=uxi8hq76d5gjw3psnzduik0a5&st=hd30lqgb&dl=0"
+    }
+  ]
 }
